@@ -1,0 +1,50 @@
+# Source files
+src/
+static/
+.svelte-kit/
+
+# Development files
+.vscode/
+.git/
+.gitignore
+.npmrc
+
+# Build artifacts (except dist)
+*.log
+*.tsbuildinfo
+
+# Development dependencies
+node_modules/
+
+# Configuration files
+svelte.config.js
+vite.config.ts
+tsconfig.json
+tsconfig.lib.json
+rollup.config.js
+
+# Original JS file (we're using TypeScript now)
+pipe-preprocessor.js
+
+# Development scripts and examples
+*.test.js
+*.spec.js
+test/
+tests/
+example/
+examples/
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db 
