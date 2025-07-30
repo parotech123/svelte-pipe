@@ -1,6 +1,6 @@
 {
 	"name": "svelte-pipe-preprocessor",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"type": "module",
 	"description": "A Svelte preprocessor that adds pipe syntax support to Svelte templates",
 	"main": "dist/pipe-preprocessor.js",
